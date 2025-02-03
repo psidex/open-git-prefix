@@ -2,6 +2,9 @@
 
 All notable changes to the "open-git-prefix" extension will be documented in this file.
 
+### 1.3.4 (2025-02-03)
+- Change minimum VS Code version to ^1.93.0
+
 ### 1.3.3 (2025-02-03)
 - Forked srmeyers/git-prefix to psidex/open-git-prefix, dependencies updated & published on open-vsx.org.
 
