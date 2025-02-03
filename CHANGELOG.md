@@ -1,6 +1,9 @@
 # Change Log
 
-All notable changes to the "git-prefix" extension will be documented in this file.
+All notable changes to the "open-git-prefix" extension will be documented in this file.
+
+### 1.3.3 (2025-02-03)
+- Forked srmeyers/git-prefix to psidex/open-git-prefix, dependencies updated & published on open-vsx.org.
 
 ### 1.3.2 (2023-10-02)
 - Added folder and parentFolder replacement tokens.

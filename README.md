@@ -1,18 +1,24 @@
-# Git Prefix
+# Open Git Prefix
+
+## Fork
+
+This is a fork of [srmeyers/git-prefix](https://github.com/srmeyers/git-prefix), with the main purpose of making it available on https://open-vsx.org/.
+
+I don't know how this will behave if you install both extensions at the same time, probably best not to!
 
 ## New in 1.3.0
+
 Setting `Is Suffix` appends at end of commit message.
 
 ## Features
+
 Button to run `Git Prefix Commit Message` command:
 
 ![Use button](images/git-prefix-button.gif)
 
 Insert a value from the current branch name into the Source Control Git Message box.
 
-
 ![Demo Git Prefix](images/demo.gif)
-
 
 ## Usage
 
@@ -27,7 +33,6 @@ This extension contributes the following settings using JavaScript regular expre
 * `gitPrefix.pattern`: Regular expression pattern to match in the branch name. Default matches
 entire branch name.
   > Tip: Match a ticket in a branch created by Jira using a pattern such as: `.*(TEST-\d+).*`
-
 
 * `gitPrefix.isSuffix`: Suffix expression instead of prefixing it.  Default is `false`.
 * `gitPrefix.patternIgnoreCase`: Ignore case in pattern.  Default is `false`.
