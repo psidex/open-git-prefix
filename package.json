@@ -1,8 +1,8 @@
 {
 	"name": "open-git-prefix",
-	"displayName": "Git Prefix",
+	"displayName": "Open Git Prefix",
 	"description": "Prefix commit message with value in branch name.",
-	"version": "1.3.4",
+	"version": "1.3.5",
 	"publisher": "psidex",
 	"author": {
 		"name": "psidex",

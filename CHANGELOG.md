@@ -2,6 +2,9 @@
 
 All notable changes to the "open-git-prefix" extension will be documented in this file.
 
+### 1.3.5 (2025-02-03)
+- Update displayName to include "Open"
+
 ### 1.3.4 (2025-02-03)
 - Change minimum VS Code version to ^1.93.0
 
